@@ -1,0 +1,14 @@
+Início
+    Mostrar tela de login
+    Solicitar entrada do usuário: email e senha
+
+    Se email e senha forem preenchidos então
+        Verificar se email e senha estão corretos
+        Se estiverem corretos então
+            Mostrar mensagem "Login bem-sucedido"
+            Redirecionar para a página inicial
+        Senão
+            Mostrar mensagem "Email ou senha incorretos"
+    Senão
+        Mostrar mensagem "Preencha todos os campos"
+Fim
